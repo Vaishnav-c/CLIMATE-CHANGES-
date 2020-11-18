@@ -1,0 +1,23 @@
+fieldset{
+    text-align: right;
+    align-content: right;
+    justify-content: right;
+    justify-content: end;
+}
+
+body{
+    background-image: "";
+    color: black;
+    
+}
+
+a{
+    color: black;
+}
+img {
+    height: 800px;
+    width: 800px;
+    align-items: center;
+    margin: 10%;
+   
+}
